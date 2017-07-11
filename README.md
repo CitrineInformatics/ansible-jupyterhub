@@ -1,4 +1,4 @@
-This role installs Jupyter (previously ipython notebook), JupyterHub and sudospawner using Python 3.
+This role installs Jupyter, JupyterHub and sudospawner using Python 3.
  
 It has been tested with Ubuntu 16.04 and works as of 07-2017.
 
