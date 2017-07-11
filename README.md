@@ -6,10 +6,9 @@ JupyterHub is installed as per instructions, with node.js and configurable-http-
 
 #### To run:
 
--  Install Ansible
--  Add an IP address to the hosts file, under `[jupyterhub]` 
--  Run the following command
-
+  -  Install Ansible
+  -  Add an IP address to the hosts file, under `[jupyterhub]` 
+  -  Run the following command:
 
     ansible-playbook no_ssl.yml -i hosts -u ubuntu
 
